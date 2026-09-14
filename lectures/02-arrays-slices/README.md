@@ -31,9 +31,7 @@
 
 ## Materials
 
-- [Lecture board](./lecture.svg)
-- [Excalidraw source](./lecture.excalidraw)
-- [Code examples](./examples/)
+- [Lecture board](./Lecture-2.pdf)
 
 ## References
 
