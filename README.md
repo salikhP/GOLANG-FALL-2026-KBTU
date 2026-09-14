@@ -1,4 +1,5 @@
-# Golang Application Development Fall 2026 Kazakh-British Technical University
+# Golang Application Development Kazakh-British Technical University Fall 2026 
+
 
 
 
