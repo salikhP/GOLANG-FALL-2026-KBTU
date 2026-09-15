@@ -33,6 +33,8 @@
 
 ## Materials
 
+- [Lecture board: Group 1](./Lecture-3-G1.pdf)
+
 ## References
 
 - [Go Blog: Strings, bytes, runes and characters in Go](https://go.dev/blog/strings)
