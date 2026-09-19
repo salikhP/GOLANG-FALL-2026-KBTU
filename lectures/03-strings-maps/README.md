@@ -1,4 +1,4 @@
-~~# Lecture 03 - Strings and Maps
+# Lecture 03 - Strings and Maps
 
 ## Learning Outcomes
 
