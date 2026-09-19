@@ -1,4 +1,4 @@
-# Lecture 03 - Strings and Maps
+~~# Lecture 03 - Strings and Maps
 
 ## Learning Outcomes
 
@@ -34,6 +34,7 @@
 ## Materials
 
 - [Lecture board: Group 1](./Lecture-3-G1.pdf)
+- [Lecture board: Group 2](./Lecture-3-G2.pdf)
 
 ## References
 
@@ -45,4 +46,4 @@
 - [A Tour of Go: Map literals](https://go.dev/tour/moretypes/20)
 - [A Tour of Go: Mutating Maps](https://go.dev/tour/moretypes/22)
 - [Go by Example: Maps](https://gobyexample.com/maps)
-- [Go Specification: Map types](https://go.dev/ref/spec#Map_types)
+- [Go Specification: Map types](https://go.dev/ref/spec#Map_types)~~
