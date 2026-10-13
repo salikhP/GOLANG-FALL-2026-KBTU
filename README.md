@@ -7,6 +7,8 @@
 3. [Lecture 03 — Strings and Maps](./lectures/03-strings-maps/README.md)
 4. [Lecture 04 — Structs and Methods](./lectures/04-structs-methods/README.md)
 5. [Lecture 05 — Interfaces and Generics](./lectures/05-interfaces-generics/README.md)
+6. [Lecture 06 — Functions, Errors, Defer, Panic and Recover](./lectures/06-functions-errors/README.md)
+7. [Lecture 07 — Memory Management](./lectures/07-memory-management/README.md)
 
 ## Checkpoints (SIS)
 
