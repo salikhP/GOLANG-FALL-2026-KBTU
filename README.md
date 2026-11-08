@@ -10,6 +10,11 @@
 6. [Lecture 06 — Functions, Errors, Defer, Panic and Recover](./lectures/06-functions-errors/README.md)
 7. [Lecture 07 — Memory Management](./lectures/07-memory-management/README.md)
 
+8. Midterm exam
+
+9. [Lecture 09 — Goroutines and the Go Scheduler](./lectures/09-goroutines-go-scheduler/README.md)
+10. [Lecture 10 — Synchronization and Goroutine Leaks](./lectures/10-synchronization/README.md)
+
 ## Checkpoints (SIS)
 
 1. [Checkpoint 01 — Go Foundations](sis/SIS_CP1_SPECIFICATION.md)
