@@ -18,3 +18,4 @@
 ## Checkpoints (SIS)
 
 1. [Checkpoint 01 — Go Foundations](sis/SIS_CP1_SPECIFICATION.md)
+2. [Checkpoint 02 — Concurrent Processing](sis/SIS_CP2_SPECIFICATION.md)
